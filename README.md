@@ -27,7 +27,7 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/Python--Learning-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14))
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
 
 </div>
 
